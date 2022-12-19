@@ -1,0 +1,36 @@
+[ 
+  
+  {
+  "name":"Stephanie",
+  "age":30,
+  "address":"Rukuba road Jos", 
+  "image":"https://loremflickr.com/320/247",
+  "alt":"Stephanie img"
+  },
+
+  {
+  "name":"Slyvia",
+  "age":50,
+  "address":"Asorock Abuja", 
+  "image":"https://loremflickr.com/320/244",
+  "alt":"Slyvia img"
+  },
+
+  { 
+  "name":"Sophia",
+  "age":50,
+  "address":"Plateau State", 
+  "image":"https://loremflickr.com/320/245", 
+  "alt":"Sophia img"
+  },
+  
+  {
+  "name":"Scholar",
+  "age":50,
+  "address":"Bauchi Road", 
+  "image":"https://loremflickr.com/320/243",
+  "alt":"Scholar img"
+  }
+
+]
+
