@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Advice Generator with React and TailwindCSS
+
+This project is an Advice Generator built with React.js and TailwindCSS. The advice is being fetched from an external API.
+
+<!-- # Getting Started with Create React App -->
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
