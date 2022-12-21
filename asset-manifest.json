@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6f4c6b77.css",
-    "main.js": "/react-gh-pages/static/js/main.f952380c.js",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/pattern-divider-desktop.svg": "/react-gh-pages/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
-    "static/media/pattern-divider-mobile.svg": "/react-gh-pages/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.6f4c6b77.css.map": "/react-gh-pages/static/css/main.6f4c6b77.css.map",
-    "main.f952380c.js.map": "/react-gh-pages/static/js/main.f952380c.js.map"
+    "main.css": "/Advice-Generator-REACT/static/css/main.6f4c6b77.css",
+    "main.js": "/Advice-Generator-REACT/static/js/main.4898dc77.js",
+    "index.html": "/Advice-Generator-REACT/index.html",
+    "static/media/pattern-divider-desktop.svg": "/Advice-Generator-REACT/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "static/media/pattern-divider-mobile.svg": "/Advice-Generator-REACT/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.6f4c6b77.css.map": "/Advice-Generator-REACT/static/css/main.6f4c6b77.css.map",
+    "main.4898dc77.js.map": "/Advice-Generator-REACT/static/js/main.4898dc77.js.map"
   },
   "entrypoints": [
     "static/css/main.6f4c6b77.css",
-    "static/js/main.f952380c.js"
+    "static/js/main.4898dc77.js"
   ]
 }
