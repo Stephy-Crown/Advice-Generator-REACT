@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.6f4c6b77.css",
+    "main.js": "/react-gh-pages/static/js/main.f952380c.js",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/pattern-divider-desktop.svg": "/react-gh-pages/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
+    "static/media/pattern-divider-mobile.svg": "/react-gh-pages/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.6f4c6b77.css.map": "/react-gh-pages/static/css/main.6f4c6b77.css.map",
+    "main.f952380c.js.map": "/react-gh-pages/static/js/main.f952380c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f4c6b77.css",
+    "static/js/main.f952380c.js"
+  ]
+}
